@@ -11,7 +11,7 @@ And the way we can initialize an EventEmitter **class** is -
 
 ***var eventsEmitter = new events.EventEmitter();***
 
-Pretty simple? Right? Well, in the examples to follow, we’ll be making use of Node.js **File System.** If you’re not aware of how to use File System, you can take a cue from [**here](https://topcoded.com/javascript/understanding-node-js-file-system-basic-ops-for-beginners/)**. Let’s begin with a very minimal **example** -
+Pretty simple? Right? Well, in the examples to follow, we’ll be making use of Node.js **File System.** If you’re not aware of how to use File System, you can take a cue from [**here](https://topcoded.com/understanding-node-js-file-system-basic-ops-for-beginners-4560ee6ebc2b)**. Let’s begin with a very minimal **example** -
 
 ## Example
 
